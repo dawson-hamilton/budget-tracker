@@ -1,13 +1,15 @@
 # Progressive Budget App
 ​
 ## Overview
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+Making and keeping track of a budget can be a very hard task, with this app I plan to make things a little bit easier on a person that 
+is trying to keep up on this. One of the reasons that my app is unlike others is that it allows you to keep track of your budget online
+and offline. 
 
 ### Links
 
-Github repository: https://github.com/tecain13/Progressive-Budget
+Github repository: https://github.com/dawson-hamilton/budget-tracker
 
-Heroku site: https://sheltered-beach-07876.herokuapp.com/
+Heroku site: https://cryptic-taiga-45369.herokuapp.com/
 ​
 ### Problem
 User Story
@@ -42,13 +44,3 @@ Enter expenses offline
 
 When brought back online:
 Offline entries should be added to tracker.
-
-
-Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
-
-
-
-
